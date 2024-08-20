@@ -1,0 +1,6 @@
+What is interface?
+ans : Interface is a blueprint of a class. 
+Interface is implemented by another class which is called "Implementation Class".
+
+JIT Compiler?
+ans : Frequently used byte code is directly converted to machine code by JIT compiler.
